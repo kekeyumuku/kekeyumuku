@@ -1,16 +1,21 @@
-## Hi there 👋
+# kekeyumuku
 
-<!--
-**kekeyumuku/kekeyumuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building tools, frameworks, and workflows for better judgment.
 
-Here are some ideas to get you started:
+I care about turning noisy information into usable signals, and turning workflows into durable assets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [worth-learning](https://github.com/kekeyumuku/worth-learning)  
+  A skill that turns articles, threads, tutorials, and hype-heavy content into judgment instead of plain summaries.
+
+- [crcl-tracking-template](https://github.com/kekeyumuku/crcl-tracking-template)  
+  A qualitative tracking framework for thinking about CRCL as issuer vs. infrastructure.
+
+## Interests
+
+- AI workflows
+- research systems
+- judgment layers
+- infrastructure-first tools
+- decision frameworks
